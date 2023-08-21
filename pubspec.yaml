@@ -1,5 +1,5 @@
 name: form_stream_handler
-description: A new Flutter package project.
+description: A simple package to perform form management and validation in flutter/dart
 version: 0.0.1
 homepage: https://github.com/franzinBr/form-stream-handler
 
