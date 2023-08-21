@@ -1,7 +1,7 @@
 name: form_stream_handler
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/franzinBr/form-stream-handler
 
 environment:
   sdk: '>=2.19.0 <3.0.0'
